@@ -164,7 +164,7 @@ var pluginsStore = {
     }
 }
 
-var suggestedCategories = ["dog", "cat", "car", "vehicle", "truck", "animal", "building", "person"];
+var suggestedCategories = ["pore 0", "pore 1", "pore 2", "pore 3", "pore 4", "pore 5", "pore 6", "pore 7", "pore 8"];
 var suggestedTags = [];
 var suggestedAttributes = {
     "gender" : ["male", "female", "other"],

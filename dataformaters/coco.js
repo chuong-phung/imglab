@@ -148,7 +148,7 @@ var cocoFormater = {
         //Add cateogries
         for(var category_i = 0 ; category_i < categories.length; category_i++){
             cocoData.categories.push({
-                "supercategory": "none",
+                "supercategory": "pore",
                 "id": category_i + 1,
                 "name": categories [ category_i ] || "uncategorized"
             })
